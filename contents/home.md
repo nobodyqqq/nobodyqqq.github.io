@@ -12,4 +12,5 @@ I'm currently pursuing a Master's degree at Institute of Computing Technology, C
 **Institute of Computing Technology**, Master <br> 
 
 #### Research Interests  
-Deep Learning, LLM
+LLM inference optimization
+edge computing

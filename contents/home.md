@@ -1,4 +1,3 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
 I'm currently pursuing a Master's degree at Institute of Computing Technology, Chinese Academy of Science.
 
